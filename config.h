@@ -2,9 +2,9 @@
 
 /* appearance */
 static const char font[]        = "Mononoki Nerd Font:size=9";
-static const char* normbgcolor  = "#282a36";
+static const char* normbgcolor  = "#282828";
 static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#434758";
+static const char* selbgcolor   = "#928374";
 static const char* selfgcolor   = "#ffffff";
 static const char* urgbgcolor   = "#111111";
 static const char* urgfgcolor   = "#cc0000";
