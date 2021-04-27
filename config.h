@@ -2,10 +2,10 @@
 
 /* appearance */
 static const char font[]        = "Fantasque Sans Mono:size=9";
-static const char* normbgcolor  = "#282828";
-static const char* normfgcolor  = "#ebdbb2";
-static const char* selbgcolor   = "#fabd2f";
-static const char* selfgcolor   = "#282828";
+static const char* normbgcolor  = "#2e3440";
+static const char* normfgcolor  = "#d8dee9";
+static const char* selbgcolor   = "#ebcb8b";
+static const char* selfgcolor   = "#3b4252";
 static const char* urgbgcolor   = "#111111";
 static const char* urgfgcolor   = "#cc0000";
 static const char before[]      = "<";
