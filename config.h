@@ -4,10 +4,10 @@
 static const char font[]        = "Fantasque Sans Mono:size=9";
 static const char* normbgcolor  = "#2e3440";
 static const char* normfgcolor  = "#d8dee9";
-static const char* selbgcolor   = "#ebcb8b";
-static const char* selfgcolor   = "#3b4252";
+static const char* selbgcolor   = "#e0af68";
+static const char* selfgcolor   = "#414868";
 static const char* urgbgcolor   = "#111111";
-static const char* urgfgcolor   = "#cc0000";
+static const char* urgfgcolor   = "#f7768e";
 static const char before[]      = "<";
 static const char after[]       = ">";
 static const char titletrim[]   = "...";
