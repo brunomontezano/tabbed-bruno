@@ -1,13 +1,13 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "JetBrains Mono:size=9";
-static const char* normbgcolor  = "#2e3440";
-static const char* normfgcolor  = "#d8dee9";
-static const char* selbgcolor   = "#e0af68";
-static const char* selfgcolor   = "#414868";
-static const char* urgbgcolor   = "#111111";
-static const char* urgfgcolor   = "#f7768e";
+static const char font[]        = "FiraMono Nerd Font:size=9";
+static const char* normbgcolor  = "#282828";
+static const char* normfgcolor  = "#ebdbb2";
+static const char* selbgcolor   = "#fabd2f";
+static const char* selfgcolor   = "#076678";
+static const char* urgbgcolor   = "#1d2021";
+static const char* urgfgcolor   = "#fb4934";
 static const char before[]      = "<";
 static const char after[]       = ">";
 static const char titletrim[]   = "...";
